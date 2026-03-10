@@ -1,7 +1,6 @@
 # Likelihood-Based Inference & Monte Carlo Validation
 
-**Statistical Computing Project**  
-*R | Maximum Likelihood Estimation | Monte Carlo Simulation | Importance Sampling*
+**R | Maximum Likelihood Estimation | Monte Carlo Simulation | Importance Sampling**
 
 ---
 
