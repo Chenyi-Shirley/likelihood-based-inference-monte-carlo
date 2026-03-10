@@ -1,5 +1,4 @@
-#' Chenyi (Shirley) He, S2279930
-#' Statistical Computing Project
+#' Chenyi Shirley He
 #' Likelihood-Based Inference & Monte Carlo Validation
 
 
